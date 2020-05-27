@@ -1,0 +1,28 @@
+Uri: https://kawaiibot.xyz/
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\index.htm
+Content Type: text/html
+
+Uri: https://kawaiibot.xyz/assets/images/background.jpg
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\images\background.jpg
+Content Type: image/jpeg
+
+Uri: https://kawaiibot.xyz/assets/images/kawaii.png
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\images\kawaii.png
+Content Type: image/png
+
+Uri: https://kawaiibot.xyz/assets/css/modesta.css
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\css\modesta.css
+Content Type: text/css
+
+Uri: https://kawaiibot.xyz/assets/css/custom.css
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://kawaiibot.xyz/assets/js/smoothscroll.min.js
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\js\smoothscroll.min.js
+Content Type: application/javascript
+
+Uri: https://kawaiibot.xyz/assets/js/main.js
+File Name: C:\Users\zorai\Desktop\Adai\paginas\kawaiibot.xyz\assets\js\main.js
+Content Type: application/javascript
+
